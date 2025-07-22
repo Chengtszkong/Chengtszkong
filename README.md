@@ -1,4 +1,6 @@
-# 关于我
+<H1 align="center">Chengtszkong's Blog</H1>
+
+## 关于我
 
 大家好呀，我是 Chengtszkong，一名前端开发搬砖工👨‍💻，热衷于把想法变成界面、把设计变成现实，有时候也会把 bug 变成 feature（误）。
 
@@ -24,3 +26,12 @@
 🛋️ 发呆，是我给大脑放假的方式
 
 这是我码字、记事、分享灵感的小窝，如果你路过，欢迎留言搭话，一起交流技术、玩梗、吐槽生活！
+
+<!-- <details><summary>显示更多</summary>
+
+</details> -->
+
+## 联系我
+
+- Email: [chengtszkong@outlook.com](mailto:chengtszkong@outlook.com)
+- Blog: [https://blog.chengtszkong.com](https://blog.chengtszkong.com)
